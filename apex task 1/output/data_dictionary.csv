@@ -1,0 +1,13 @@
+Column_Name,Data_Type,Description,Example_Value,Missing_Values,Unique_Values
+Order_ID,str,To be documented,ORD100002,0,992
+Order_Date,str,To be documented,2025-02-25,0,342
+Customer_ID,str,To be documented,CUST5529,0,947
+Customer_Name,str,To be documented,Customer_227,0,425
+Age,float64,To be documented,30.0,20,48
+Gender,str,To be documented,Female,0,2
+City,str,To be documented,Bengaluru,13,8
+Product,str,To be documented,Rice,0,6
+Category,str,To be documented,Grocery,0,5
+Quantity,int64,To be documented,7,0,10
+Unit_Price,float64,To be documented,2829.77,0,1000
+Total_Sales,float64,To be documented,19808.39,0,1000
