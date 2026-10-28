@@ -83,8 +83,7 @@ A cleaner, more consistent, and validated dataset suitable for further data anal
 **Domain:** Data Analytics  
 **Task:** Task 1 – Data Immersion & Wrangling
 
-### 📌 Project Status
-In Progress
+
 
 ---
 *This project demonstrates practical data preparation and data-quality assessment skills using Python.*
